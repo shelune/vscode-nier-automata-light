@@ -6,3 +6,8 @@ Only available in Light theme though so bless your eyes :)
 
 # Usage
 Clone this repo into `~/.vscode/extensions`. Reload your VSCode.
+
+# Demo
+![Demo 1](https://raw.githubusercontent.com/shelune/vscode-nier-automata-light/master/demo-1.png)
+
+![Demo 2](https://raw.githubusercontent.com/shelune/vscode-nier-automata-light/master/demo-2.png)
